@@ -2,7 +2,7 @@
 
 Public repositories from take-home technical assessments submitted to prospective employers over the years. All repositories are available at [github.com/LuizSSB](https://github.com/LuizSSB).
 
-Be sure to also check my CV (in this repo) and LinkedIn: https://www.linkedin.com/in/luiz-soares-dos-santos-baglie-b706662b/
+Be sure to also check my [CV](https://github.com/LuizSSB/me/blob/master/resume.pdf) and [LinkedIn](https://www.linkedin.com/in/luiz-soares-dos-santos-baglie-b706662b/).
 
 ## Ascertain - Staff Backend engineer
 - **Repo:** [https://github.com/LuizSSB/lssb-ascertain-backend](https://github.com/LuizSSB/lssb-ascertain-backend)
